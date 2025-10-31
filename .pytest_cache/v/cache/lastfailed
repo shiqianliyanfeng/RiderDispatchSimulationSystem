@@ -1,0 +1,5 @@
+{
+  "tests/test_path_planner.py": true,
+  "tests/test_scheduler.py": true,
+  "tests/test_sim.py": true
+}

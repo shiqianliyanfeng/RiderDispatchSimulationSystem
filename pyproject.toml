@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "dispatch_sim_system"
+version = "0.1.0"
+description = "Minimal event-driven front-warehouse dispatch simulation"
+authors = ["Auto Generated <dev@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
