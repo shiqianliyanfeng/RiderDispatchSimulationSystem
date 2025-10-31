@@ -7,9 +7,10 @@ This repository implements an event-driven rider dispatch simulation platform de
 - `dispatch_sim/` — main package containing engine, models, scheduler, path planner, metrics and CLI.
 - `tests/` — unit tests for engine and scheduler.
 - `simulation.log` — runtime log produced by CLI demo.
-- `README.md` — Chinese usage guide (also contains development notes).
-- `README_EN.md` — this English usage guide.
-- `PRD_EN.md` — English product requirement document (detailed PRD).
+- `README.md` — this English usage guide.
+- `README_CN.md` — Chinese usage guide (also contains development notes).
+- `PRD.md` — English product requirement document (detailed PRD).
+- `PRD_CN.md` — Chinese product requirement document (detailed PRD).
 
 ## Requirements
 - Python 3.8+
