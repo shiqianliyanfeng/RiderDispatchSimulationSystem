@@ -8,9 +8,11 @@
 ```
 pyproject.toml
 README.md
+README_CN.md
+PRD.md
+PRD_CN.md
 requirements.txt
 simulation.log
-sim_scheme.txt
 dispatch_sim/
 	__init__.py
 	cli.py           # 命令行演示入口

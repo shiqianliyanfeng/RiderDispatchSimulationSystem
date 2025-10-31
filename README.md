@@ -1,4 +1,4 @@
-# Dispatch Simulation System — Usage Guide (English)
+# Dispatch Simulation System — Usage Guide
 
 ## Overview
 This repository implements an event-driven rider dispatch simulation platform designed for quick experimentation with dispatch strategies, rider behaviors, and delivery time-window constraints. It can be used to prototype scheduling logic (global VRPTW with OR-Tools and greedy fallbacks), measure KPIs, and analyze the impact of operational decisions.
@@ -7,7 +7,7 @@ This repository implements an event-driven rider dispatch simulation platform de
 - `dispatch_sim/` — main package containing engine, models, scheduler, path planner, metrics and CLI.
 - `tests/` — unit tests for engine and scheduler.
 - `simulation.log` — runtime log produced by CLI demo.
-- `README.md` — this English usage guide.
+- `README.md` — English usage guide.
 - `README_CN.md` — Chinese usage guide (also contains development notes).
 - `PRD.md` — English product requirement document (detailed PRD).
 - `PRD_CN.md` — Chinese product requirement document (detailed PRD).
